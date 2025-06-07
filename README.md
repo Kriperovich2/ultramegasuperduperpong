@@ -1,8 +1,7 @@
-# ULTRA MEGA SUPER DUPER PONG
 
 ---
 
-# 🎮 PONG: Resurgence
+# 🎮 ULTRA MEGA SUPER DUPER PONG
 
 > *"The legend returns. 8 years in the making. The definitive revival of the game that started it all."*
 
